@@ -17,7 +17,6 @@ namespace Models
                 this.Books.Add(new Book { Name = "Harry Potter and the Order of the Phoenix" });
                 this.Books.Add(new Book { Name = "Harry Potter and the Half-Blood Prince" });
                 this.Books.Add(new Book { Name = "Harry Potter and the Deathly Hallows" });
-                this.Books.Add(new Book { Name = "Docker Book" });
 
                 this.SaveChanges();
             }
