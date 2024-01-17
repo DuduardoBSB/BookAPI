@@ -1,2 +1,2 @@
 # BookAPI
-A sample .NET 6 WEB API that stores data in-memory for test purposes.
+A sample .NET 6 WEB API that uses in-memory data for test purposes.
